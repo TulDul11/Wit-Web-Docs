@@ -2,7 +2,7 @@
 
 ### 1. Introducción
 
-Este manual de usuario te enseñará a poder moverte por Whirlpool Training Interface como un *técnico* y a poder aprovechar al máximo esta herramienta de capacitación.
+Este manual de usuario te enseñará a poder moverte por Whirlpool Training Interface como un **técnico** y a poder aprovechar al máximo esta herramienta de capacitación.
 
 ### 2. Registro y Acceso
 
@@ -17,7 +17,7 @@ Si la contraseña o el usuario están mal, aparecerá un error Usuario no encont
 ### 3. Navegación en la Plataforma
 
 #### Pantalla inicial
-Al ingresar a tu cuenta, probablemente te encontrarás con tarjetas de cursos; el número de tarjetas disponibles dependerá del número de clases a las que estés inscrito. y tendran el siguiente formato:
+Al ingresar a tu cuenta, probablemente te encontrarás con tarjetas de cursos; el número de tarjetas disponibles dependerá del número de clases a las que estés inscrito. y tendrán el siguiente formato:
 
 ![Formato card](/img/card3.png)
 
@@ -36,18 +36,19 @@ Al entrar a un curso, aparecerá una pequeña introducción al mismo. A la derec
 #### Tipos de Módulos
 Existen dos tipos de módulos: informativos e interactivos o de juego.
 
--Módulo informativo: No tiene tiempo de entrega y solo proporciona información sobre el tema relacionado.
-
--Módulo de juego: Siempre incluye un juego tipo quiz en el que deberás responder preguntas sobre el tema. Estos módulos tienen una fecha de entrega y cuentan con un botón para ampliar la pantalla y mejorar la experiencia.
+- Módulo informativo: No tiene tiempo de entrega y solo proporciona información sobre el tema relacionado.
+- Módulo de juego: Siempre incluye un juego tipo quiz en el que deberás responder preguntas sobre el tema. Estos módulos tienen una fecha de entrega y cuentan con un botón para ampliar la pantalla y mejorar la experiencia.
 
 ### 4. Juegos y Actividades Interactivas
 En los módulos de juego, encontrarás el cuestionario y el profesor podrá adjuntar información adicional.
 
 Los juegos consisten en cuestionarios con preguntas relacionadas con el tema.
 
-En los juegos existe la opción de una pista. Esta se activará cada vez que tengas dos errores. Con esta herramienta, podrás eliminar la mitad de las opciones.
+En los juegos existe la opción de una pista. Esta se activará cada vez que tengas dos
+errores. Con esta herramienta, podrás eliminar la mitad de las opciones.
 
-Estos juegos son la manera en que los maestros evaluarán tu conocimiento, por lo que deberás responder con cuidado.
+Estos juegos son la manera en que los maestros evaluarán tu conocimiento, por lo que
+deberás responder con cuidado.
 
 ![Prueba Preguntas](/img/Prueba-Pregunta.png)
 
