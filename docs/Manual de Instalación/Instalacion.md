@@ -143,14 +143,22 @@ END; $$
 DELIMITER ;
 
 DELIMITER $$
-CREATE TRIGGER asignar_tarea BEFORE DELETE ON cursos
+CREATE TRIGGER borrar_tareas BEFORE DELETE ON cursos
 FOR EACH ROW 
 BEGIN
 	IF OLD.tarea THEN
 		DELETE FROM alumnos_tareas WHERE id_tarea = OLD.id;
 	END IF;
 END; $$
-DELIMITER;
+DELIMITER ;
+
+DELIMITER $$
+CREATE TRIGGER borrar_alumno BEFORE DELETE ON alumnos
+FOR EACH ROW
+BEGIN
+	DELETE FROM alumnos_cursos WHERE alumnos_cursos.id_alumno = OLD.id;
+    DELETE FROM alumnos_tareas WHERE alumnos_tareas.id_alumno = OLD.id;
+END; $$
 ```
 
 Los valores que se insertan en las tablas son de ejemplo, pero como persona encargada de agregar alumnos y maestros, deberás poder añadir a los usuarios.
