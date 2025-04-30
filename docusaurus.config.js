@@ -15,7 +15,7 @@ const config = {
   favicon: 'img/wti_icon_logo.PNG',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'http://kc8gkgks408c8gog8s0wk0ks.172.200.210.83.sslip.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
