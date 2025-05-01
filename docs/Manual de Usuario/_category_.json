@@ -1,6 +1,6 @@
 {
-  "label": "Manuales de Usuario",
-  "position": 1,
+  "label": "Manual de Usuario",
+  "position": 2,
   "link": {
     "type": "generated-index",
     "description": "Manual de Usuario Whirlpool Training Interface"

@@ -64,7 +64,7 @@ const config = {
         title: 'WTI',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/wti_icon_logo.png',
+          src: 'img/wti_icon_logo.PNG',
         },
         items: [
           {

@@ -2,14 +2,13 @@
 
 ### 1. Introducción
 
-Este manual de usuario te enseñará a poder moverte por Whirlpool Training Interface como un **profesor o maestro** y a poder aprovechar al máximo esta herramienta de capacitación para poder ofrecer la mejor experiencia a tus técnicos.
+Este manual de usuario te enseñará a poder moverte por Whirlpool Training Interface como un *profesor o maestro* y a poder aprovechar al máximo esta herramienta de capacitación para poder ofrecer la mejor experiencia a tus tecnicos.
 
 ### 2. Registro y Acceso
 
-Para poder iniciar sesión en tu cuenta, debes tener tu usuario y contraseña que fue proveída por un superior, si este no es el caso, por favor, contáctalo para que puedas acceder a tu cuenta.
+Para poder iniciar sesión en tu cuenta, debes tener tu usuario y contraseña que fue proveída por un superior si este no es el caso, por favor, contáctalo para que puedas acceder a tu cuenta.
 
-Cuando ya tengas tus credenciales, deberás colocarlas en sus respectivas casillas para
-poder iniciar sesión.
+Cuando ya tengas tus credenciales, deberás colocarlas en sus respectivas casillas para poder iniciar sesión.
 
 ![Inicio de sesion](/img/Inicio.png)
 
@@ -24,6 +23,7 @@ Como maestro, aparecerán las tarjetas de los cursos que hayas creado, junto con
 ![Inicio de Profesor](/img/Profesor-card.png)
 
 En la esquina superior derecha aparecerá un botón para agregar curso, el cual te permitirá crear un curso desde cero.
+
 ![Agregar Curso](/img/Agregar-curso.png)
 
 #### Creador de Cursos
@@ -34,20 +34,19 @@ Los alumnos deberán ser agregados uno por uno en la sección de “Alumnos a Ag
 
 ![Crear Curso](/img/Agregar-Curso1.png)
 
-Con el botón de Agregar Alumnos, que se encuentra al lado izquierdo del botón de agregar cursos, podrás agregar a los técnicos mediante un archivo .csv, de manera que se puedan agregar por listas y facilitar el proceso.
+Con el botón de Agregar Alumnos, que se encuentra al lado izquierdo del botón de agregar cursos, podrás  agregar a los técnicos mediante un archivo .csv, de manera que se puedan agregar por listas y facilitar el proceso.
 
 
 ![Boton Agregar Alumnos](/img/Agregar-Alumno.png)
 ![Display Agregar Alumnos](/img/Display-Agregar-Alumno.png)
-
 #### Modificación de Cursos
-Al crear un curso y acceder a el, podrás generar dos tipos de módulos: informativos e interactivos o de juego, en el botón verde que dice agregar módulo, como se muestra a
-continuación:
+Al crear un curso y acceder a el, podrás generar dos tipos de módulos: informativos e interactivos o de juego, en el boton verde que dice agregar modulo, como se muestra a continuacion:
 
 ![Agregar modulo](/img/Agregar-Modulo.png)
 
-- Módulo informativo: Solo podrás proporcionar información en estos módulos, los cuales ayudarán a los técnicos a aprender sobre determinados temas.
-- Módulo de juego: Estos módulos incluirán un juego tipo quiz, donde podrás evaluar a tus técnicos mediante preguntas proporcionadas por ti. Además, podrás añadir información adicional, como instrucciones o material de repaso.
+-Módulo informativo: Solo podrás proporcionar información en estos módulos, los cuales ayudarán a los técnicos a aprender sobre determinados temas.
+
+-Módulo de juego: Estos módulos incluirán un juego tipo quiz, donde podrás evaluar a tus técnicos mediante preguntas proporcionadas por ti. Además, podrás añadir información adicional, como instrucciones o material de repaso.
 
 También podrás ver y modificar cada módulo dentro del curso para realizar actualizaciones en caso de cambios o correcciones, para esto, debes seleccionar el módulo que deseas cambiar y presionar el botón de editar.
 
