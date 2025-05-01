@@ -184,8 +184,6 @@ BEGIN
 END; $$
 DELIMITER ; 
 
-DROP TRIGGER add_alumno;
-
 DELIMITER $$
 CREATE TRIGGER del_alumno BEFORE DELETE ON alumnos_cursos
 FOR EACH ROW
